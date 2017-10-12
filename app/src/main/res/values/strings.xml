@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">J10_4</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="cikis">Çıkış</string>
+    <string name="uygulamasesi">Uygulama Sesi</string>
+    <string name="sesacik">Ses Açık</string>
+    <string name="seskapali">Ses Kapalı</string>
+    <string name="titresimkapali">Titreşim Kapalı</string>
+    <string name="titresimacik">Titreşim Açık</string>
+    <string name="titresim">Titreşim</string>
+</resources>
